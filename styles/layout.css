@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+
+div {
+  outline: solid gray;
+}
+
+p {
+  position: absolute;
+  font-size: 12px;
+}
+
+section {
+  width: 480px;
+  margin: 0 auto;
+}
+
+#firstDiv {
+  width: 480px;
+  margin: 0 auto;
+}
+
+#secondDiv {
+  width: 480px;
+  margin: 0 auto;
+}
+
+.groupOne {
+  width: 480px;
+  margin: 0 auto;
+}
+
+.groupTwo {
+  width: 240px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.groupThree {
+  width: 240px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+#lastDiv {
+  width: 480px;
+  margin: 0 auto;
+}

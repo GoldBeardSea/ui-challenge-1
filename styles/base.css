@@ -1,0 +1,23 @@
+div {
+  /* border: 1px solid red; */
+}
+
+#firstDivTwo {
+  display: none;
+}
+
+#secondDivTwo {
+  display: none;
+}
+
+.groupOneTwo {
+  display: none;
+}
+
+.groupTwoTwo {
+  display: none;
+}
+
+#lastDivTwo {
+  display: none;
+}
